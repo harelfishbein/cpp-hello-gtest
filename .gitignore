@@ -33,3 +33,5 @@
 
 # Conan build folder
 **/build/
+**/CMakeFiles/
+**/CMakeCache.txt
